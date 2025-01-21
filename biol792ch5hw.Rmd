@@ -1,0 +1,64 @@
+---
+title: "biol792ch5hw"
+author: "morgan hrivnak"
+date: "2024-09-25"
+output: html_document
+---
+
+5E1.
+(2) µi = βxxi +βzzi is multiple linear regressions because it has more than one predictor variable and coefficient 
+
+5E2. Di ∼ Normal(µi, σ)
+     µi = α + βLLi + βpPi
+
+5E3. Ti ∼ Normal(µi, σ)
+     µi = α + βFFi - βsSi
+     
+5E4. (1) and (4) are both inferentially equivalent ways to include categorical variable in regression because it is possible to compute one posterior distirbution from the posterior distribution of another model.
+
+5M1. An example of surplus correlation could potentially be examining a model showing the size of fish in a stream. The variables could be the number of children in the local school while another factor could be increased sun exposure on the stream. Surplus correlation occurs when two or more varuables are associated but not casually related due to some other factor. 
+
+5M2.An example of a masked realtionship would be if using the previous example if a variable of weight of the fish. This variable cancels out the previous two variables.  
+
+5M3. A high divorce rate may cause a higher marriage rate if people are getting divorced to marry other people. If a couple divorces and those two individuals go on to marry two other people who hadn't ever been married an increase in divorce rate would cause an increased marriage rate. Generally speaking we would need more categories to show the potential different pathways after divorce and into marriage. 
+
+5M4. 
+```{r}
+library(rethinking)
+data("WaffleDivorce")
+d <- WaffleDivorce
+d$pct_LDS <- c(0.75, 4.53, 6.18, 1, 2.01, 2.82, 0.43, 0.55, 0.38,
+0.75, 0.82, 5.18, 26.35, 0.44, 0.66, 0.87, 1.25, 0.77, 0.64, 0.81,
+0.72, 0.39, 0.44, 0.58, 0.72, 1.14, 4.78, 1.29, 0.61, 0.37, 3.34,
+0.41, 0.82, 1.48, 0.52, 1.2, 3.85, 0.4, 0.37, 0.83, 1.27, 0.75,
+1.21, 67.97, 0.74, 1.13, 3.99, 0.92, 0.44, 11.5 )
+
+m_5M4 <- map(
+  alist(
+    Divorce ~ dnorm(mu,sigma),
+    mu <- a + bR*Marriage + bA*MedianAgeMarriage + bM*pct_LDS,
+a ~ dnorm(0,100),
+    c(bA,bR,bM) ~ dnorm(0,10),
+    sigma ~ dunif(0,10)
+),
+data=d )
+precis( m_5M4 )
+
+```
+5M5. 
+
+O is obesity
+G is the price of gasoline
+D is driving 
+W is walking
+
+Gas price reduces driving -> less driving increases walking -> reduces obesity 
+
+D is a declining function of G
+W is a decling funcition of D
+O is a decling function of W
+
+
+
+
+

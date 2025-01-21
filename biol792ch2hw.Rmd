@@ -1,0 +1,156 @@
+---
+title: "biol792ch2"
+author: "morgan hrivnak"
+date: "2024-09-03"
+output: word_document
+---
+
+2e1. (2) pr(rain|monday)
+
+2e2. (3) the probability that it is monday, given that it is raining
+
+2e3. (1) pr(monday|rain)
+
+2e4. If you were to spin a globe and randomly point to any part of the globe their is a 70% chance that you would be pointing to an area of water.
+
+2m1. 
+```{r}
+# WWW
+# define grid
+p_grid <- seq( from=0 , to=1 , length.out=100 )
+
+# compute likelihood at each value in grid
+likelihood <- dbinom( 3 , size=3 , prob=p_grid )
+
+# define prior (uniform)
+prior <- rep(1,100)
+posterior <- likelihood * prior
+postierior <- posterior / sum(posterior)
+
+plot( posterior ~ p_grid , type="l" )
+
+```
+```{r}
+# WWWL
+# define grid
+p_grid <- seq( from=0 , to=1 , length.out=100 )
+
+# compute likelihood at each value in grid
+likelihood <- dbinom( 3 , size=4 , prob=p_grid )
+
+# define prior (uniform)
+prior <- rep(1,100)
+posterior <- likelihood * prior
+postierior <- posterior / sum(posterior)
+
+plot( posterior ~ p_grid , type="l" )
+
+```
+```{r}
+# LWWLWWW
+# define grid
+p_grid <- seq( from=0 , to=1 , length.out=100 )
+
+# compute likelihood at each value in grid
+likelihood <- dbinom( 5 , size=7 , prob=p_grid )
+
+# define prior (uniform)
+prior <- rep(1,100)
+posterior <- likelihood * prior
+postierior <- posterior / sum(posterior)
+
+plot( posterior ~ p_grid , type="l" )
+```
+```{r}
+# WWWL
+# define grid
+p_grid <- seq( from=0 , to=1 , length.out=100 )
+
+# compute likelihood at each value in grid
+likelihood <- dbinom( 3 , size=3 , prob=p_grid )
+
+# define prior (uniform)
+prior <- rep(1,100)
+posterior <- likelihood * prior
+postierior <- posterior / sum(posterior)
+
+plot( posterior ~ p_grid , type="l" )
+``
+```
+
+2m2.
+
+```{r}
+#WWW
+# define grid
+p_grid <- seq( from=0 , to=1 , length.out=100 )
+
+# compute likelihood at each value in grid
+likelihood <- dbinom( 3 , size=3 , prob=p_grid )
+
+# define new prior 
+prior <- ifelse( p_grid < 0.5 , 0 , 1 )
+posterior <- likelihood * prior
+postierior <- posterior / sum(posterior)
+
+plot( posterior ~ p_grid , type="l" )
+```
+```{r}
+#WWWL
+# define grid
+p_grid <- seq( from=0 , to=1 , length.out=100 )
+
+# compute likelihood at each value in grid
+likelihood <- dbinom( 3 , size=4 , prob=p_grid )
+
+# define new prior 
+prior <- ifelse( p_grid < 0.5 , 0 , 1 )
+posterior <- likelihood * prior
+postierior <- posterior / sum(posterior)
+
+plot( posterior ~ p_grid , type="l" )
+```
+```{r}
+#LWWLWWW
+# define grid
+p_grid <- seq( from=0 , to=1 , length.out=100 )
+
+# compute likelihood at each value in grid
+likelihood <- dbinom( 5 , size=7 , prob=p_grid )
+
+# define new prior 
+prior <- ifelse( p_grid < 0.5 , 0 , 1 )
+posterior <- likelihood * prior
+postierior <- posterior / sum(posterior)
+
+plot( posterior ~ p_grid , type="l" )
+```
+
+2m3. P(E|L)=P(L|E)⋅P(E)P(L)
+            =P(L|E)⋅P(E)P(L|E)⋅P(E)+P(L|M)⋅P(M)
+            =0.3⋅0.50.3⋅0.5+1.0⋅0.5
+            ≈0.2308
+            
+2m4. P(b=B|f=B)=P(f=B,b=B)P(f=B)
+               =(1/3) / (3/6)
+               =2/3
+
+2m5. P(b = B|f = B)= (1/2)/(5/8) = 4/5
+
+2m6. 
+
+card|# of cards|# of black sides|# ways to|frequency
+b/b   1               2               2       50%
+b/w   2               1               2       50%
+w/w   3               0               0       0
+
+2m7. 
+
+C1 | C2  | # of ways to see (B,W) | frequency
+b/b| b/w           2*1                 2/8
+b/b| w/w           2*2                 4/8
+b/w| b/b           1*0                 0
+b/w| w/w           1*2                 2/8   
+w/w| b/b           0*0                 0   
+w/w| b/w           0*1                 0
+
