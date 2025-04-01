@@ -1,0 +1,85 @@
+---
+title: "biol792ch11"
+author: "morgan hrivnak"
+date: "2024-10-31"
+output: html_document
+---
+
+11E1.
+```{r}
+log(0.35/(1-0.35))
+```
+11E2. 
+```{r}
+lgodds <- exp(3.2)
+p <- lgodds/(1+lgodds)
+returnValue(p)
+```
+11E3.
+If there is a value of 1.7 that means their is an increase in the log-odds of the outcome.
+
+11E4. 
+Poisson regressions will sometimes require an offset because the length of time varies among the events. If you take two organizations that survey the Missouri river, one surveys for chlorophil once every two weeks while the other surveys chlorophil at the same site once a month. The records from the two organizations will vary and the ofselt helps equal the scale between the two records.  
+
+11M1. 
+The likelihood changes when it is converted between aggregated and disaggregated format because the multipler is now in a constant log-scale when it is converted, Data is set up the aggregated probabilities are usually become larger.
+
+11M2. 
+```{r}
+exp(1.7)
+```
+
+11M3. 
+logit link maps a parrameter defined as a probability mass. The value always lie somewhere between 0 and 1. Binomial generalizaed models generate a binary outcome variable (0 or 1) which fits the model the best.
+
+11M4. 
+Log link predictor values are restricted to posotive real numbers because the outcomes are always posotive.
+
+11M5.
+Logit link restrict the values between 0 and 1, all variables need to be posotive values  between 0 and 1 so anything outside of this would make the model not work.
+
+11M6. 
+The constraints fall under unordered events and have a constant expected value.Poisson distributions are a special case of binomail dsitributions. The two distributions max entropy occurs under the same constraints.
+
+11M7.
+```{r}
+library(rethinking)
+
+data("chimpanzees")
+d<- chimpanzees
+d$recipient <- NULL
+
+q2 <- map(alist(
+  pulled_left ~ dbinom( 1 , p ) ,
+  logit(p) <- a[actor] + (bp + bpC*condition)*prosoc_left ,
+  a[actor] ~ dnorm(0,10),
+  bp ~ dnorm(0,10),
+  bpC ~ dnorm(0,10)
+) ,
+data=d)
+pairs(q2)
+
+```
+Posterior standard deviation is almost similar to the posterior mean. There is a slight increase in the MCMC model's posterior standard deviation. The MCMC and quadratic approximation distributions appear similar.
+
+11M8. 
+```{r}
+data(Kline)
+d <- Kline
+d$P <- scale( log(d$population) )
+d$id <- ifelse( d$contact=="high" , 2 , 1 )
+d
+```
+```{r}
+d <- subset(d, d$culture != "Hawaii")
+d$P <- scale( log(d$population) )
+d$id <- ifelse( d$contact=="high" , 2 , 1 )
+d
+```
+The slopes are similar, this would make sense because Hawaii was the only major outlier in the data set.
+
+
+
+
+
+
