@@ -1,0 +1,753 @@
+StudyID,RefID,Author,Year,Predator,Field or Mesocosm,lifestage,effect_size
+1,1,Baxter et al.,2004,rainbow trout,F,BenthicRR,0.54
+1,1,Baxter et al.,2004,rainbow trout,F,EmergenceRR,0.64
+2,1,Wesner,2012,Etheostoma spectabile,M,BenthicRR,0.53
+2,1,Wesner,2012,Etheostoma spectabile,M,EmergenceRR,0.89
+2,2,Wesner,2012,Cyprinella lutrensis,M,BenthicRR,0.9500000000000001
+2,2,Wesner,2012,Cyprinella lutrensis,M,EmergenceRR,0.8600000000000001
+2,3,Wesner,2012,Gambusia affinis,M,BenthicRR,0.9
+2,3,Wesner,2012,Gambusia affinis,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,ES+GA,M,BenthicRR,0.46
+2,3,Wesner,2012,ES+GA,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,ES+CL,M,BenthicRR,0.97
+2,3,Wesner,2012,ES+CL,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,GA+CL,M,BenthicRR,2.2
+2,3,Wesner,2012,GA+CL,M,EmergenceRR,0.6699999999999999
+2,4,Wesner,2012,ES/CL/GA,M,BenthicRR,0.6599999999999999
+2,4,Wesner,2012,ES/CL/GA,M,EmergenceRR,0.62
+2,1,Wesner,2012,Etheostoma spectabile,M,BenthicRR,0.53
+2,1,Wesner,2012,Etheostoma spectabile,M,EmergenceRR,0.89
+2,2,Wesner,2012,Cyprinella lutrensis,M,BenthicRR,0.9500000000000001
+2,2,Wesner,2012,Cyprinella lutrensis,M,EmergenceRR,0.8600000000000001
+2,3,Wesner,2012,Gambusia affinis,M,BenthicRR,0.9
+2,3,Wesner,2012,Gambusia affinis,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,ES+GA,M,BenthicRR,0.46
+2,3,Wesner,2012,ES+GA,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,ES+CL,M,BenthicRR,0.97
+2,3,Wesner,2012,ES+CL,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,GA+CL,M,BenthicRR,2.2
+2,3,Wesner,2012,GA+CL,M,EmergenceRR,0.6699999999999999
+2,4,Wesner,2012,ES/CL/GA,M,BenthicRR,0.6599999999999999
+2,4,Wesner,2012,ES/CL/GA,M,EmergenceRR,0.62
+2,5,Wesner,2012,Etheostoma spectabile,M,BenthicRR,NA
+2,5,Wesner,2012,Etheostoma spectabile,M,EmergenceRR,0.9
+2,5,Wesner,2012,Etheostoma spectabile,M,BenthicRR,NA
+2,5,Wesner,2012,Etheostoma spectabile,M,EmergenceRR,0.9
+2,6,Wesner,2012,Cyprinella lutrensis,M,BenthicRR,NA
+2,6,Wesner,2012,Cyprinella lutrensis,M,EmergenceRR,0.9400000000000001
+2,7,Wesner,2012,Gambusia affinis,M,BenthicRR,NA
+2,7,Wesner,2012,Gambusia affinis,M,EmergenceRR,0.96
+2,3,Wesner,2012,ES+GA,M,BenthicRR,NA
+2,3,Wesner,2012,ES+GA,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,ES+CL,M,BenthicRR,NA
+2,3,Wesner,2012,ES+CL,M,EmergenceRR,0.6699999999999999
+2,3,Wesner,2012,GA+CL,M,BenthicRR,NA
+2,3,Wesner,2012,GA+CL,M,EmergenceRR,0.6699999999999999
+2,8,Wesner,2012,ES/CL/GA,M,BenthicRR,NA
+2,8,Wesner,2012,ES/CL/GA,M,EmergenceRR,0.62
+3,1,Benjamin,2013,Cutthroat,F,BenthicRR,1.01
+3,1,Benjamin,2013,Cutthroat,F,EmergenceRR,0.91
+3,2,Benjamin,2013,Brook low,F,BenthicRR,1.44
+3,2,Benjamin,2013,Brook low,F,EmergenceRR,0.41000000000000003
+3,3,Benjamin,2013,Brook high,F,BenthicRR,0.73
+3,3,Benjamin,2013,Brook high,F,EmergenceRR,1
+3,3,Benjamin,2013,Cutthroat,F,BenthicRR,0.41000000000000003
+3,3,Benjamin,2013,Cutthroat,F,EmergenceRR,0.36
+3,3,Benjamin,2013,Brook low,F,BenthicRR,0.17
+3,3,Benjamin,2013,Brook low,F,EmergenceRR,0.02
+3,3,Benjamin,2013,Brook high,F,BenthicRR,0.18
+3,3,Benjamin,2013,Brook high,F,EmergenceRR,0.21000000000000002
+4,1,Wesner,2010,C. lutrensis,M,BenthicRR,0
+4,1,Wesner,2010,C. lutrensis,M,EmergenceRR,0.22
+4,2,Wesner,2010,E. spectabile,M,BenthicRR,0
+4,2,Wesner,2010,E. spectabile,M,EmergenceRR,0.13
+5,1,Merkley,2011,Least chub,M,BenthicRR,0
+5,1,Merkley,2011,Least chub,M,EmergenceRR,0.77
+5,2,Merkley,2011,Utah chub,M,BenthicRR,0
+5,2,Merkley,2011,Utah chub,M,EmergenceRR,0.61
+5,3,Merkley,2011,Western mosquitofish,M,BenthicRR,0
+5,3,Merkley,2011,Western mosquitofish,M,EmergenceRR,0.41000000000000003
+5,4,Merkley,2011,MF/UC,M,BenthicRR,0
+5,4,Merkley,2011,MF/UC,M,EmergenceRR,0.47000000000000003
+5,5,Merkley,2011,LC/UC,M,BenthicRR,0
+5,5,Merkley,2011,LC/UC,M,EmergenceRR,0.56
+5,6,Merkley,2011,MF/UC/LC,M,BenthicRR,0
+5,6,Merkley,2011,MF/UC/LC,M,EmergenceRR,0.37
+5,7,Merkley,2011,Western mosquitofish,M,BenthicRR,0
+5,7,Merkley,2011,Western mosquitofish,M,EmergenceRR,0.11
+5,8,Merkley,2011,Least chub,M,BenthicRR,0
+5,8,Merkley,2011,Least chub,M,EmergenceRR,0.2
+5,9,Merkley,2011,Utah chub,M,BenthicRR,0
+5,9,Merkley,2011,Utah chub,M,EmergenceRR,0.15000000000000002
+5,10,Merkley,2011,MF/UC,M,BenthicRR,0
+5,10,Merkley,2011,MF/UC,M,EmergenceRR,0.14
+5,11,Merkley,2011,LC/UC,M,BenthicRR,0
+5,11,Merkley,2011,LC/UC,M,EmergenceRR,0.2
+5,12,Merkley,2011,MF/UC/LC,M,BenthicRR,0
+5,12,Merkley,2011,MF/UC/LC,M,EmergenceRR,0.09
+5,13,Merkley,2011,Western mosquitofish,M,BenthicRR,0
+5,13,Merkley,2011,Western mosquitofish,M,EmergenceRR,0.32999999999999996
+5,14,Merkley,2011,Least chub,M,BenthicRR,0
+5,14,Merkley,2011,Least chub,M,EmergenceRR,0.47000000000000003
+5,15,Merkley,2011,Utah chub,M,BenthicRR,0
+5,15,Merkley,2011,Utah chub,M,EmergenceRR,0.13
+5,16,Merkley,2011,MF/UC,M,BenthicRR,0
+5,16,Merkley,2011,MF/UC,M,EmergenceRR,0.07
+5,17,Merkley,2011,LC/UC,M,BenthicRR,0
+5,17,Merkley,2011,LC/UC,M,EmergenceRR,0.32999999999999996
+5,18,Merkley,2011,MF/UC/LC,M,BenthicRR,0
+5,18,Merkley,2011,MF/UC/LC,M,EmergenceRR,0.13
+6,1,Biggs,2000,Galaxia,M,BenthicRR,0.3
+6,1,Biggs,2000,Galaxia,M,EmergenceRR,0
+6,2,Biggs,2000,Galaxia,M,BenthicRR,0.05
+6,2,Biggs,2000,Galaxia,M,EmergenceRR,0
+6,3,Biggs,2000,Galaxia,M,BenthicRR,0.11
+6,3,Biggs,2000,Galaxia,M,EmergenceRR,0
+6,4,Biggs,2000,Salmo trutta,M,BenthicRR,0.61
+6,4,Biggs,2000,Salmo trutta,M,EmergenceRR,0
+6,5,Biggs,2000,Salmo trutta,M,BenthicRR,0.69
+6,5,Biggs,2000,Salmo trutta,M,EmergenceRR,0
+6,6,Biggs,2000,Salmo trutta,M,BenthicRR,0.42000000000000004
+6,6,Biggs,2000,Salmo trutta,M,EmergenceRR,0
+7,1,Greig,2011,Threespine stickleback,M,BenthicRR,0.92
+7,1,Greig,2011,Threespine stickleback,M,EmergenceRR,0.05
+8,1,Jones,2013,Green sunfish,M,BenthicRR,0
+8,1,Jones,2013,Green sunfish,M,EmergenceRR,0.23
+8,2,Jones,2013,Green sunfish,M,BenthicRR,0
+8,2,Jones,2013,Green sunfish,M,EmergenceRR,0
+8,3,Jones,2013,Green sunfish,M,BenthicRR,0
+8,3,Jones,2013,Green sunfish,M,EmergenceRR,0
+9,1,Shuring,2012,Threespine stickleback,M,BenthicRR,0.25
+9,1,Shuring,2012,Threespine stickleback,M,EmergenceRR,0
+10,1,Batzer,2000,sunfish/bullhead/crappie/carp,M,BenthicRR,0.63
+10,1,Batzer,2000,sunfish/bullhead/crappie/carp,M,EmergenceRR,0
+10,2,Batzer,2000,sunfish/bullhead/crappie/carp,M,BenthicRR,0.42000000000000004
+10,2,Batzer,2000,sunfish/bullhead/crappie/carp,M,EmergenceRR,0
+11,1,Diehl,1992,perch,M,BenthicRR,0.74
+11,1,Diehl,1992,perch,M,EmergenceRR,0
+11,2,Diehl,1992,perch,M,BenthicRR,0.51
+11,2,Diehl,1992,perch,M,EmergenceRR,0
+11,3,Diehl,1992,perch,M,BenthicRR,1.54
+11,3,Diehl,1992,perch,M,EmergenceRR,0
+12,1,Dahl,1998,bullhead,M,BenthicRR,0.1
+12,1,Dahl,1998,bullhead,M,EmergenceRR,0
+12,2,Dahl,1998,brown trout,M,BenthicRR,0.33999999999999997
+12,2,Dahl,1998,brown trout,M,EmergenceRR,0
+12,3,Dahl,1998,bullhead/brown trout,M,BenthicRR,0.12000000000000001
+12,3,Dahl,1998,bullhead/brown trout,M,EmergenceRR,0
+12,4,Dahl,1998,bullhead,M,BenthicRR,0.05
+12,4,Dahl,1998,bullhead,M,EmergenceRR,0
+12,5,Dahl,1998,brown trout,M,BenthicRR,0.88
+12,5,Dahl,1998,brown trout,M,EmergenceRR,0
+12,6,Dahl,1998,bullhead/brown trout,M,BenthicRR,0.17
+12,6,Dahl,1998,bullhead/brown trout,M,EmergenceRR,0
+12,7,Dahl,1998,bullhead,M,BenthicRR,1.37
+12,7,Dahl,1998,bullhead,M,EmergenceRR,0
+12,8,Dahl,1998,brown trout,M,BenthicRR,1.07
+12,8,Dahl,1998,brown trout,M,EmergenceRR,0
+12,9,Dahl,1998,bullhead/brown trout,M,BenthicRR,2.32
+12,9,Dahl,1998,bullhead/brown trout,M,EmergenceRR,0
+12,10,Dahl,1998,bullhead,M,BenthicRR,0
+12,10,Dahl,1998,bullhead,M,EmergenceRR,0
+12,11,Dahl,1998,brown trout,M,BenthicRR,0.25
+12,11,Dahl,1998,brown trout,M,EmergenceRR,0
+12,12,Dahl,1998,bullhead/brown trout,M,BenthicRR,0.04
+12,12,Dahl,1998,bullhead/brown trout,M,EmergenceRR,0
+13,1,Batzer,1998,juvenile carp/bullhead,M,BenthicRR,0.32999999999999996
+13,1,Batzer,1998,juvenile carp/bullhead,M,EmergenceRR,0
+14,1,Deegan,1997,high density grayling,M,BenthicRR,0.39
+14,1,Deegan,1997,high density grayling,M,EmergenceRR,0
+14,2,Deegan,1997,high density grayling,M,BenthicRR,0.35
+14,2,Deegan,1997,high density grayling,M,EmergenceRR,0
+14,3,Deegan,1997,high density grayling,M,BenthicRR,0.9
+14,3,Deegan,1997,high density grayling,M,EmergenceRR,0
+14,4,Deegan,1997,high density grayling,M,BenthicRR,0
+14,4,Deegan,1997,high density grayling,M,EmergenceRR,0
+14,5,Deegan,1997,high density grayling,M,BenthicRR,0.48000000000000004
+14,5,Deegan,1997,high density grayling,M,EmergenceRR,0
+15,1,Englund,2005,C. gobio,M,BenthicRR,1.21
+15,1,Englund,2005,C. gobio,M,EmergenceRR,0
+15,2,Englund,2005,C. gobio,M,BenthicRR,1.27
+15,2,Englund,2005,C. gobio,M,EmergenceRR,0
+15,3,Englund,2005,C. gobio,M,BenthicRR,0.71
+15,3,Englund,2005,C. gobio,M,EmergenceRR,0
+15,4,Englund,2005,C. gobio,M,BenthicRR,0.93
+15,4,Englund,2005,C. gobio,M,EmergenceRR,0
+15,5,Englund,2005,C. gobio,M,BenthicRR,0.99
+15,5,Englund,2005,C. gobio,M,EmergenceRR,0
+15,6,Englund,2005,C. gobio,M,BenthicRR,0.8600000000000001
+15,6,Englund,2005,C. gobio,M,EmergenceRR,0
+15,7,Englund,2005,C. gobio,M,BenthicRR,0.89
+15,7,Englund,2005,C. gobio,M,EmergenceRR,0
+15,8,Englund,2005,C. gobio,M,BenthicRR,0.75
+15,8,Englund,2005,C. gobio,M,EmergenceRR,0
+15,9,Englund,2005,C. gobio,M,BenthicRR,0.63
+15,9,Englund,2005,C. gobio,M,EmergenceRR,0
+15,10,Englund,2005,C. gobio,M,BenthicRR,0.93
+15,10,Englund,2005,C. gobio,M,EmergenceRR,0
+15,11,Englund,2005,C. gobio,M,BenthicRR,0.8600000000000001
+15,11,Englund,2005,C. gobio,M,EmergenceRR,0
+15,12,Englund,2005,C. gobio,M,BenthicRR,0.92
+15,12,Englund,2005,C. gobio,M,EmergenceRR,0
+15,13,Englund,2005,C. gobio,M,BenthicRR,1.01
+15,13,Englund,2005,C. gobio,M,EmergenceRR,0
+16,NA,Winkelmann,2008,Gobio gobio,F,BenthicRR,0.7799999999999999
+16,NA,Winkelmann,2008,Gobio gobio,F,EmergenceRR,NA
+16,NA,Winkelmann,2008,Gobio gobio,F,BenthicRR,0.89
+16,NA,Winkelmann,2008,Gobio gobio,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,BenthicRR,NA
+17,NA,Winkelmann,2011,Gobio gobio and Barbatula barbatula L,F,EmergenceRR,NA
+18,NA,C. R. Townsend,2003,Galaxias,F,BenthicRR,1.02
+18,NA,C. R. Townsend,2003,Galaxias,F,EmergenceRR,NA
+18,NA,C. R. Townsend,2003,Trout,F,BenthicRR,0.62
+18,NA,C. R. Townsend,2003,Trout,F,EmergenceRR,NA
+18,NA,C. R. Townsend,2003,Galaxias,F,BenthicRR,1.1400000000000001
+18,NA,C. R. Townsend,2003,Galaxias,F,EmergenceRR,NA
+18,NA,C. R. Townsend,2003,Trout,F,BenthicRR,0.62
+18,NA,C. R. Townsend,2003,Trout,F,EmergenceRR,NA
+18,NA,C. R. Townsend,2003,Galaxias,F,BenthicRR,0.92
+18,NA,C. R. Townsend,2003,Galaxias,F,EmergenceRR,NA
+18,NA,C. R. Townsend,2003,Trout,F,BenthicRR,0.8500000000000001
+18,NA,C. R. Townsend,2003,Trout,F,EmergenceRR,NA
+19,NA,J. Rosenfeld,2000,Mottled Sculpins/Brook Trout/White Suckers,F,BenthicRR,0.81
+19,NA,J. Rosenfeld,2000,Mottled Sculpins/Brook Trout/White Suckers,F,EmergenceRR,NA
+20,NA,Peter Koetsier,1989,Sculpin,F,BenthicRR,0.5700000000000001
+20,NA,Peter Koetsier,1989,Sculpin,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.53
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,1.1
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.7
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.58
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.71
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.9500000000000001
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.3
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.7
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,1.27
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.91
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,1.51
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,1.21
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.38
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.3
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,1
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.76
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,3.17
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,15.5
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0.36
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,BenthicRR,0
+21,NA,"Harvey, B.C. and Hill, W.R.",1991,Semotilus Atromaculatus,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.24000000000000002
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,1.09
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,1.53
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.32999999999999996
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.81
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,1
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.9500000000000001
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.32999999999999996
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.5700000000000001
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.9400000000000001
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.74
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,2
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.58
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,3.14
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0.6
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,4.14
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Pungitius Pungitius and Salvelinus fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,1.1800000000000002
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,1.44
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,2.34
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.6
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.21000000000000002
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.61
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.7899999999999999
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.07
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,1
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,1.27
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.23
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,2.17
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.8
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.58
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.52
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,1.24
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.6599999999999999
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.77
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.39
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.5
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.61
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.46
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.32999999999999996
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.4
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.9400000000000001
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,1.33
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.39
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.65
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.73
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.17
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.75
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.06
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.64
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.2
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,BenthicRR,0.64
+22,NA,"Reice, S.R. and Edwards, R.L.",1986,Salvelinus Fontinalis,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.01
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.27
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.9
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,2.8
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.22
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.06
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.5
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.09
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.16
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.12000000000000001
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,3
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.44
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,1.7
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.32999999999999996
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,1.58
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,1.44
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.6699999999999999
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.27
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.01
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.05
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.02
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.28
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.03
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.11
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.08
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,1.6700000000000002
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.11
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.06
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.15000000000000002
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,2
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,BenthicRR,0.17
+23,NA,K. L. Pope and E. C. Hannelly,2013,Primarily Brook Trout and Rainbow Trout,F,EmergenceRR,NA
+24,NA,"M. Konishi, S. Nakano and T. Iwata",2001,Rainbow Trout and Freshwater Sculpin,F,BenthicRR,0.43000000000000005
+24,NA,"M. Konishi, S. Nakano and T. Iwata",2001,Rainbow Trout and Freshwater Sculpin,F,EmergenceRR,NA
+24,NA,"M. Konishi, S. Nakano and T. Iwata",2001,Rainbow Trout and Freshwater Sculpin,F,BenthicRR,1.06
+24,NA,"M. Konishi, S. Nakano and T. Iwata",2001,Rainbow Trout and Freshwater Sculpin,F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.02
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.1
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.24000000000000002
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.05
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,8.11
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.55
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.2
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.42000000000000004
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.58
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.39
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,0.51
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,2.06
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,1.03
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,1.1900000000000002
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,BenthicRR,3.51
+25,NA,"R. A. Knapp, K. R. Matthews and O. Sarnelle",2001,"Trout (golden trout, rainbow trout, brook trout, and brown trout)",F,EmergenceRR,NA
+26,NA,Wiseman et al.,1993,Rainbow Trout,F,BenthicRR,7.06
+26,NA,Wiseman et al.,1993,Rainbow Trout,F,EmergenceRR,NA
+26,NA,Wiseman et al.,1993,Rainbow Trout,F,BenthicRR,40.7
+26,NA,Wiseman et al.,1993,Rainbow Trout,F,EmergenceRR,NA
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,BenthicRR,0.18
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,EmergenceRR,NA
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,BenthicRR,0.3
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,EmergenceRR,NA
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,BenthicRR,0.15000000000000002
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,EmergenceRR,NA
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,BenthicRR,0.12000000000000001
+27,NA,Hanson and Riggs,1995,"Fathead minnows dominant, with brook stickleback and central mudminnows rare",F,EmergenceRR,NA
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,BenthicRR,1.12
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,EmergenceRR,NA
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,BenthicRR,1.54
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,EmergenceRR,NA
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,BenthicRR,1.37
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,EmergenceRR,NA
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,BenthicRR,1.53
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,EmergenceRR,NA
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,BenthicRR,1.34
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,EmergenceRR,NA
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,BenthicRR,1.27
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,EmergenceRR,NA
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,BenthicRR,1.93
+28,NA,Wellborn and Robinson,1991,Multiple - exclusion of whole fish community (dominated by Bluegill),F,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.1
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.11
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.6400000000000001
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.6800000000000002
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.6700000000000002
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,2.14
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.11
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,0.8400000000000001
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,0.44
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,0.71
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.1500000000000001
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.05
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.29
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,1.09
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+29,NA,Bechara et al.,1993,Brook trout,M,BenthicRR,7.24
+29,NA,Bechara et al.,1993,Brook trout,M,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.55
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.33999999999999997
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.54
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.28
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.8
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.06
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.22
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.48000000000000004
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.25
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.27
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.23
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,BenthicRR,0.23
+30,NA,Dudgeon,1993,Oreonectes platycephalus (Flathead Loach),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,1.36
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,1.37
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,0.63
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,0.98
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,0.81
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,0.21000000000000002
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,0.35
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,BenthicRR,0.35
+31,NA,Flecker,1992,Bryconamericaus deuterodonoides + Cheiroon pulcher (Characidae),F,EmergenceRR,NA
+32,NA,Gilinsky,1984,Lepomis macrochirus (Bluegill),F,BenthicRR,0.65
+32,NA,Gilinsky,1984,Lepomis macrochirus (Bluegill),F,EmergenceRR,NA
+33,NA,Power,1990,Stone Loach and Steelhead juveniles,F,BenthicRR,0.12000000000000001
+33,NA,Power,1990,Stone Loach and Steelhead juveniles,F,EmergenceRR,NA
+33,NA,Power,1990,Stone Loach and Steelhead juveniles,F,BenthicRR,12.209999999999999
+33,NA,Power,1990,Stone Loach and Steelhead juveniles,F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,1.3900000000000001
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,1.3900000000000001
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,2
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,0
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,1.32
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,1.1300000000000001
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,0.73
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,0.75
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,BenthicRR,3.27
+34,NA,Schofield et al.,1988,Brown Trout (Salmo trutta),F,EmergenceRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,BenthicRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,EmergenceRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,BenthicRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,EmergenceRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,BenthicRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,EmergenceRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,BenthicRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,EmergenceRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,BenthicRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,EmergenceRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,BenthicRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,EmergenceRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,BenthicRR,NA
+35,NA,Effenberger et al.,2011,"Multiple - exclusion of whole fish community (Barb, Rainbow trout, chub, common carp, eel, sprilin, pike)",F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,BenthicRR,NA
+36,NA,Englund and Olsson,1996,Sculpin,F,EmergenceRR,NA
+37,NA,Herrmann et al.,2012,Bully (Gobiomorphus breviceps),M,BenthicRR,NA
+37,NA,Herrmann et al.,2012,Bully (Gobiomorphus breviceps),M,EmergenceRR,NA
+37,NA,Herrmann et al.,2012,Brown Trout (Salmo trutta),M,BenthicRR,NA
+37,NA,Herrmann et al.,2012,Brown Trout (Salmo trutta),M,EmergenceRR,NA
+37,NA,Herrmann et al.,2012,Bully (Gobiomorphus breviceps),M,BenthicRR,NA
+37,NA,Herrmann et al.,2012,Bully (Gobiomorphus breviceps),M,EmergenceRR,NA
+37,NA,Herrmann et al.,2012,Brown Trout (Salmo trutta),M,BenthicRR,NA
+37,NA,Herrmann et al.,2012,Brown Trout (Salmo trutta),M,EmergenceRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,BenthicRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,EmergenceRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,BenthicRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,EmergenceRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,BenthicRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,EmergenceRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,BenthicRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,EmergenceRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,BenthicRR,NA
+38,NA,Inoue and Miyayoshi,2006,Rhinogobius sp.,F,EmergenceRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,BenthicRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,EmergenceRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,BenthicRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,EmergenceRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,BenthicRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,EmergenceRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,BenthicRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,EmergenceRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,BenthicRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,EmergenceRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,BenthicRR,NA
+39,NA,Jones et al.,2013,Lepomis cyanellus,M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+40,NA,Katano,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Masu salmon (Oncorhynchus masou masou),M,BenthicRR,NA
+41,NA,Katano et al.,2013,Masu salmon (Oncorhynchus masou masou),M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Pike Gudgeon (Pseudogobio esocinus),M,BenthicRR,NA
+41,NA,Katano et al.,2013,Pike Gudgeon (Pseudogobio esocinus),M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Masu + Pike,M,BenthicRR,NA
+41,NA,Katano et al.,2013,Masu + Pike,M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Cut-tailed Bullhead (Pseudobagrus tokiensis),M,BenthicRR,NA
+41,NA,Katano et al.,2013,Cut-tailed Bullhead (Pseudobagrus tokiensis),M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Japanese Dace (Tribolodon hakonensis),M,BenthicRR,NA
+41,NA,Katano et al.,2013,Japanese Dace (Tribolodon hakonensis),M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Bullhead+Dace,M,BenthicRR,NA
+41,NA,Katano et al.,2013,Bullhead+Dace,M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Oriental weather loach (Misgurnus anguillicaudatus),M,BenthicRR,NA
+41,NA,Katano et al.,2013,Oriental weather loach (Misgurnus anguillicaudatus),M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Japanese Common Catfish (Silurus asotus),M,BenthicRR,NA
+41,NA,Katano et al.,2013,Japanese Common Catfish (Silurus asotus),M,EmergenceRR,NA
+41,NA,Katano et al.,2013,Silver Crucian Carp (Carassius langsdorfii),M,BenthicRR,NA
+41,NA,Katano et al.,2013,Silver Crucian Carp (Carassius langsdorfii),M,EmergenceRR,NA
